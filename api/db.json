@@ -1,0 +1,40 @@
+{
+  "dataMakanan": [
+    {
+      "id": "1",
+      "nama": "nasi goreng",
+      "harga": "Rp16.000",
+      "gambar": "https://www.kitchensanctuary.com/wp-content/uploads/2020/07/Nasi-Goreng-square-FS-57.jpg",
+      "deskripsi": "qwertyuiop[oijhgfdsdghjklkjvbnjbnm,"
+    },
+    {
+      "id": "2",
+      "gambar": "https://www.kitchensanctuary.com/wp-content/uploads/2020/07/Nasi-Goreng-square-FS-57.jpg",
+      "nama": "nasi goreng ekstra manis",
+      "harga": "Rp17.000"
+    },
+    {
+      "id": "3",
+      "nama": "nasi goreng ekstra ekstra",
+      "harga": "Rp20.000",
+      "gambar": "https://www.kitchensanctuary.com/wp-content/uploads/2020/07/Nasi-Goreng-square-FS-57.jpg",
+      "deskripsi": "qwertyuiop[oijhgfdsdghjklkjvbnjbnm,"
+    }
+  ],
+  "dataMinuman": [
+    {
+      "id": "1",
+      "nama": "es teh",
+      "harga": "Rp5.000",
+      "gambar": "https://1.bp.blogspot.com/-Szmm7LBPDEE/VfMA7tKXLiI/AAAAAAAAAT0/p7XN8n-iShQ/s1600/teh%2Bes.jpg",
+      "deskripsi": "qwertyuiop[oijhgfdsdghjklkjvbnjbnm,"
+    },
+    {
+      "id": "3",
+      "nama": "es teh",
+      "harga": "Rp5.000",
+      "gambar": "https://1.bp.blogspot.com/-Szmm7LBPDEE/VfMA7tKXLiI/AAAAAAAAAT0/p7XN8n-iShQ/s1600/teh%2Bes.jpg",
+      "deskripsi": "qwertyuiop[oijhgfdsdghjklkjvbnjbnm,"
+    }
+  ]
+}
